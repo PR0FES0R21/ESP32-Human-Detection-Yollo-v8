@@ -2,4 +2,8 @@ __pycache__/
 dugaan/
 sementara/
 recordings/*
-!recordings/.gitkeep
+!recordings/.gitkeep__codex_*
+__codex_update_system.py
+__codex_update_draw.py
+__codex_update_control_method.py
+__codex_fix_main.py
